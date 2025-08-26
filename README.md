@@ -14,7 +14,7 @@ Focus is on **statistical modeling and diagnostics**, not trading strategy backt
   - Residual diagnostics (heteroskedasticity, autocorrelation, Q-Q plots)  
   - Multicollinearity check (VIF)  
 
-👉 Notebook: [BA_AAPL_DJI_regression.ipynb](./BA_AAPL_DJI_regression.ipynb)
+👉 Notebook: [BA_AAPL_DJI_regression.ipynb](./BA_AAPL_DJI_regression-checkpoint.ipynb)
 
 ### Key Results
 - Log-level OLS: R² ≈ **0.962**；BA≈0.157，AAPL≈0.336  
